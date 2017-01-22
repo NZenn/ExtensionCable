@@ -1,2 +1,2 @@
-#!/usr/bin/sh
+#!/bin/bash
 rackup -p $PORT -o $IP
