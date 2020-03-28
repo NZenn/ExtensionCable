@@ -28,7 +28,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
-    rake (12.0.0)
+    rake (12.3.3)
     rdoc (5.0.0)
     sinatra (1.4.7)
       rack (~> 1.5)
